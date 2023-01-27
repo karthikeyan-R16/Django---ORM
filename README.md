@@ -39,4 +39,5 @@ class studentAdmin(admin.ModelAdmin):
 
 
 ## RESULT
-By this program Django ORM has been created.
+By this program Django ORM has been 
+created.
